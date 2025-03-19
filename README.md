@@ -104,8 +104,8 @@ A **feature-rich car rental app** with:
 
 ## 📫 **How to Reach Me**  
 📧 Email: **johnsonthuraniramwangi@gmail.com**  
-💼 LinkedIn: [Your LinkedIn Profile]  
-🌐 Portfolio: [Your Portfolio Website]  
+💼 LinkedIn: https://www.linkedin.com/in/johnson-thuranira/  
+🌐 Portfolio: my_portifolio  
 
 ---
 

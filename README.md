@@ -1,35 +1,54 @@
 <div align="center">
 
-<!-- HEADER IMAGE -->
-![Johnson Mwangi Banner](https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=120&section=header&text=Johnson%20Mwangi&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Engineer%20%7C%20AI%20%26%20DevOps%20Specialist&descFontSize=20&descAlignY=75)
+<!-- 1. HEADER BANNER (Fixed & Fancy) -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0e75b6,000000&height=250&section=header&text=Johnson%20Mwangi&fontSize=80&fontAlignY=35&desc=Full-Stack%20Dev%20%7C%20AI%20%7C%20DevOps&descAlignY=60&descAlign=50&animation=fadeIn)
 
-<!-- SOCIAL ICONS -->
+<!-- 2. SOCIAL LINKS -->
 <p>
 <a href="https://github.com/devjohnsonmwangi"><img src="https://img.shields.io/github/followers/devjohnsonmwangi?label=Followers&style=social" alt="GitHub Followers" /></a>
 <a href="https://www.linkedin.com/in/johnson-thuranira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:johnsonthuraniramwangi@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
+<!-- 3. TYPING EFFECT -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+Scalable+Solutions;Architecting+Cloud+Systems;Training+AI+Models;Automating+Everything+🚀" alt="Typing SVG" />
+</a>
+
 </div>
 
 ---
 
-<!-- 👨‍💻 ABOUT ME -->
+<!-- 4. TECH STACK (MOVED TO TOP) -->
+<h2 align="center">🛠 My Tech Arsenal</h2>
+
+<div align="center">
+
+| **Frontend & Mobile** | **Backend & Databases** |
+| :---: | :---: |
+| ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) | ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![Hono](https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white) |
+| ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white) | ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat&logo=drizzle&logoColor=black) |
+| ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
+
+| **AI & Machine Learning** | **DevOps & Cloud** |
+| :---: | :---: |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![K8s](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) |
+| ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-Scikit-F7931E?style=flat&logo=scikit-learn&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![CI/CD](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) |
+
+</div>
+
+---
+
+<!-- 5. ABOUT ME -->
 <h2 align="center">👨‍💻 About Me</h2>
 
 > I’m a **multi-skilled developer** with expertise in **Full-Stack Development, AI, and DevOps Engineering**. 
 >
 > 🚀 My focus is on building **scalable, high-performance applications** while integrating **AI-driven automation** and **cloud computing**.
->
-> 💡 **Core Competencies:**
-> *   **Mobile:** React Native, Expo
-> *   **Backend:** Node.js, Hono, PostgreSQL, Drizzle ORM
-> *   **Cloud & Ops:** Docker, Kubernetes, AWS, CI/CD
-> *   **AI Integration:** OpenAI API, TensorFlow, NLP
 
 ---
 
-<!-- 🔥 LATEST PROJECT -->
+<!-- 6. LATEST PROJECT -->
 <h2 align="center">🔥 Latest Masterpiece</h2>
 
 <div align="center">
@@ -51,7 +70,7 @@
 ✅ <b>Analytics:</b> Real-time visualization of savings & dividends.
 </p>
 
-<!-- Stack Badges -->
+<!-- Project Stack Badges -->
 <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white" />
@@ -61,7 +80,7 @@
 
 ---
 
-<!-- 🚀 MAJOR PROJECTS -->
+<!-- 7. TOP REPOSITORIES -->
 <h2 align="center">🚀 Top Active Repositories</h2>
 <div align="center">
 <i>High-impact projects with advanced architecture.</i>
@@ -88,7 +107,7 @@
 
 ---
 
-<!-- 🕹️ INTERACTIVE ZONE -->
+<!-- 8. INTERACTIVE ZONE -->
 <h2 align="center">🕹️ Interactive Zone</h2>
 
 ### ❓ The "Stack Quiz"
@@ -114,22 +133,7 @@
 
 ---
 
-<!-- 🛠 TECH STACK -->
-<h2 align="center">🛠 Tech Stack</h2>
-
-<div align="center">
-  
-| **Frontend** | **Backend & DB** | **AI & ML** | **DevOps** |
-| :---: | :---: | :---: | :---: |
-| ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
-| ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) | ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) | ![K8s](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) |
-| ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat&logo=drizzle&logoColor=black) | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) |
-
-</div>
-
----
-
-<!-- 📊 GITHUB STATS -->
+<!-- 9. GITHUB STATS -->
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">

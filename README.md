@@ -1,19 +1,21 @@
-<!-- TITLE & HEADER (High Visibility Background) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=120&section=header&text=Johnson%20Mwangi&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Engineer%20%7C%20AI%20%26%20DevOps%20Specialist&descFontSize=20&descAlignY=75" alt="Johnson Mwangi Banner" />
 
-  <!-- Social Links -->
-  <p>
-    <a href="https://github.com/devjohnsonmwangi">
-      <img src="https://img.shields.io/github/followers/devjohnsonmwangi?label=Followers&style=social" alt="GitHub Followers" />
-    </a>
-    <a href="https://www.linkedin.com/in/johnson-thuranira/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:johnsonthuraniramwangi@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-  </p>
+<!-- HEADER: Switched to Markdown syntax to fix XML Error -->
+![Johnson Mwangi Banner](https://capsule-render.vercel.app/api?type=rect&color=0e75b6&height=120&section=header&text=Johnson%20Mwangi&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Engineer%20%7C%20AI%20%26%20DevOps%20Specialist&descFontSize=20&descAlignY=75)
+
+<!-- Social Links -->
+<p>
+  <a href="https://github.com/devjohnsonmwangi">
+    <img src="https://img.shields.io/github/followers/devjohnsonmwangi?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="https://www.linkedin.com/in/johnson-thuranira/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:johnsonthuraniramwangi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
 </div>
 
 ---

@@ -1,113 +1,132 @@
-<h1 align="center">👋 Hi, I'm Johnson Mwangi (@devjohnsonmwangi) </h1>
+<h1 align="center">🚀 Hey, I'm <strong>Johnson Mwangi</strong> (@devjohnsonmwangi)</h1>
 
 <p align="center">
-  🚀 Full-Stack Developer | 🤖 AI & Machine Learning Enthusiast | ⚡ DevOps Engineer | 📱 React Native & Expo Specialist
+  <strong>Full-Stack Developer</strong> • <strong>AI & Machine Learning Engineer</strong> • <strong>DevOps Automator</strong> <br/>
+  💡 Building intelligent apps | ⚙️ Scaling systems | 📱 Crafting sleek mobile experiences
+</p>
+
+<p align="center">
+  <a href="https://github.com/devjohnsonmwangi?tab=followers">
+    <img src="https://img.shields.io/github/followers/devjohnsonmwangi?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/devjohnsonmwangi?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-50%2B-blueviolet?style=for-the-badge" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=devjohnsonmwangi&style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 About Me  
-I’m a **multi-skilled developer** with expertise in **full-stack development, AI, and DevOps engineering**. My focus is on building **scalable, high-performance applications** while integrating **AI-driven automation and cloud computing**.
+## ✨ About Me
+I'm a **multi-disciplinary engineer** specializing in:
 
-I have hands-on experience in **React, React Native, Node.js, PostgreSQL, Hono, Drizzle ORM, Docker, Kubernetes, Firebase, AWS, and CI/CD pipelines**. 🚀  
+- 🔥 **Full-Stack Development**  
+- 🤖 **AI/ML Automation & NLP Solutions**  
+- ⚡ **DevOps, Docker, Kubernetes & CI/CD**  
+- 📱 **React Native + Expo Apps**  
 
----
-
-## 🔥 Latest Project  
-
-### ⚖️ Wakili Advocate - **Legal Services App** 📱  
-A **React Native mobile application** designed to streamline **legal service management**. Features include:  
-
-✅ **Lawyer & Client Registration**  
-✅ **Case Tracking & Legal Document Management**  
-✅ **Real-Time Notifications & Updates**  
-✅ **Secure Authentication & Role-Based Access Control**  
-✅ **Appointment Booking & Consultation Scheduling**  
-✅ **AI-powered Legal Document Search & Summarization**  
-
-🛠 **Tech Stack:**  
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)  
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-ff5733?style=for-the-badge&logo=database&logoColor=white)  
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)  
+I focus on building **high-performance, cloud-powered, AI-driven systems** that solve real-world problems in the **legal, automotive, education, and fintech sectors**.
 
 ---
 
-## 🛠 Other Projects  
+# 🏆 Featured Project (Newest)
 
-### 🚗 **KeBest - Vehicle Rental System** 🏎️  
-A **feature-rich car rental app** with:  
-✅ **User & Admin Dashboards**  
-✅ **Car Booking & Fleet Management**  
-✅ **Mpesa (Daraja API) Payment Integration**  
-✅ **Satellite Location Tracking**  
-✅ **Graphical Insights & Booking Recommendations**  
+## 🎓 **ATM Walimu Kenya – Education, Admissions & Scholarship Intelligence**
+🌍 [Visit ATM Walimu](https://atmwalimu.co.ke)  
+A fast-growing **education intelligence platform for Kenyan learners**, featuring:
 
-🛠 **Tech Stack:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Hono](https://img.shields.io/badge/Hono-ff5733?style=for-the-badge&logo=javascript&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+- ✔️ **KCSE & University Placement Insights**  
+- ✔️ **Scholarship Discovery Engine**  
+- ✔️ **Admission Letters & Program Guidance**  
+- ✔️ **AI-Driven Education Analytics**  
+- ✔️ **Content-Rich SEO for National Reach**  
+
+🛠 **Stack:** Next.js • React • SEO Optimization • Education Analytics • AI Content Generation  
+
+💡 Focus: **Helping thousands of Kenyan students make smarter academic decisions.**  
 
 ---
 
-### 🤖 AI & Machine Learning Projects  
+# 📱 Latest App Project  
 
-- **AI-powered Car Rental Price Prediction** (Python, TensorFlow, OpenAI API)  
-- **Chatbot for Customer Support in Car Rentals** (LangChain, OpenAI GPT, Firebase)  
-- **AI-based Legal Document Analysis & Search** (Python, NLP, OpenAI, PostgreSQL)  
+## ⚖️ **Wakili Advocate – Digital Legal Services Platform** 📱  
+A **React Native mobile ecosystem** streamlining access to legal services.
 
-🛠 **AI Tech Stack:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)  
-![LangChain](https://img.shields.io/badge/LangChain-ff5733?style=for-the-badge&logo=python&logoColor=white)  
-![NLP](https://img.shields.io/badge/NLP-008000?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+### Key Features:
+- 🔹 **Lawyer & Client Onboarding**  
+- 🔹 **Case File & Legal Document Management**  
+- 🔹 **Secured Auth + Roles**  
+- 🔹 **Appointment Scheduling**  
+- 🔹 **Real-Time Notifications**  
+- 🔹 **AI Summaries for Legal Docs** 🔥  
 
----
-
-## 🛠 **Tech Stack I Use**  
-
-### **Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)  
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-
-### **Backend & Databases**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-ff5733?style=for-the-badge&logo=database&logoColor=white)  
-![Hono](https://img.shields.io/badge/Hono-ff5733?style=for-the-badge&logo=javascript&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
-
-### **AI & ML**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)  
-![LangChain](https://img.shields.io/badge/LangChain-ff5733?style=for-the-badge&logo=python&logoColor=white)  
-
-### **DevOps & Cloud**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![CI/CD](https://img.shields.io/badge/CI/CD-FF0000?style=for-the-badge&logo=github-actions&logoColor=white)  
+**Tech Stack:**  
+React Native • Expo • Redux • Firebase • PostgreSQL • Drizzle ORM • Node.js • OpenAI API  
 
 ---
 
-## 📫 **How to Reach Me**  
-📧 Email: **johnsonthuraniramwangi@gmail.com**  
-💼 LinkedIn: https://www.linkedin.com/in/johnson-thuranira/  
-🌐 Portfolio: my_portifolio  
+# 🚗 Major Web App Project
+
+## 🏎️ **KeBest Vehicle Rental System**  
+A **smart, data-driven mobility solution** for booking & managing vehicles.
+
+### Features Include:
+- ✨ **Admin & User Dashboards**
+- 🚗 **Fleet Management + Car Cards UI**
+- 💳 **Mpesa Daraja API Payments**
+- 📍 **Satellite Location Mapping**
+- 📊 **Analytics + Booking Recommendations**
+
+💻 **Stack:** React • Redux • Tailwind • PostgreSQL • Hono • Docker  
 
 ---
 
-## ⚡ **Fun Fact**  
-I automate everything, from **AI-powered legal research to cloud-based car rentals**! 🚀  
+# 🤖 AI & Machine Learning Lab
+
+🧪 I experiment with applied machine learning:
+
+- 🟢 **AI Car Rental Price Prediction**  
+- 🟢 **NLP Chatbots for Customer Support**  
+- 🟢 **Legal NLP Document Search & Summaries**  
+- 🟢 **LLM-Powered Automation (OpenAI, LangChain)**  
+
+**ML Stack:** Python • TensorFlow • LangChain • NLP • Vector DB • OpenAI  
+
+---
+
+# 🧰 Tools & Technologies
+
+### 🎨 Frontend
+- React • React Native • Expo • Redux • Tailwind
+
+### 🧩 Backend & Data
+- Node.js • PostgreSQL • Drizzle ORM • Hono • Firebase
+
+### 🧠 AI/ML
+- Python • TensorFlow • LangChain • OpenAI
+
+### 🛠 DevOps & Cloud
+- Docker • Kubernetes • AWS • CI/CD (GitHub Actions)
+
+---
+
+# 🌍 What I Love Building
+- AI-first applications  
+- Scalable backend systems  
+- High-traffic platforms  
+- DevOps automation  
+- Education & Legal tech solutions  
+
+---
+
+# 📫 Reach Me
+📧 **Email:** [johnsonthuraniramwangi@gmail.com](mailto:johnsonthuraniramwangi@gmail.com)  
+💼 **LinkedIn:** [Johnson Thuranira](https://www.linkedin.com/in/johnson-thuranira/)  
+🌐 **Portfolio:** (Updating 🚀)  
+
+---
+
+# ⚡ Fun Fact
+I don’t just code… **I automate entire industries.**  
+Education? Legal? Car rentals?  
+Give me data — I scale it 💥  
